@@ -1,5 +1,40 @@
-gradio
-pandas
-numpy
-scikit-learn
-joblib
+# AutoValue AI 🚗
+
+AutoValue AI is a Machine Learning-based Used Car Price Prediction System built using Python, Scikit-Learn, and Gradio.
+
+## Features
+
+* Predicts used car prices using Random Forest Regression
+* Interactive Gradio web interface
+* Vehicle Health Score calculation
+* Market Segment Analysis
+* Data preprocessing and feature engineering
+
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Scikit-Learn
+* Gradio
+* Joblib
+
+## Project Workflow
+
+1. Data Collection
+2. Data Preprocessing
+3. Feature Engineering
+4. Model Training
+5. Price Prediction
+6. User Interface Development
+
+## How to Run
+
+```bash
+pip install -r requirements.txt
+python app.py
+```
+
+## Author
+
+Anushka Sodha
