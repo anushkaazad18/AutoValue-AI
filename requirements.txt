@@ -1,4 +1,4 @@
-# AutoValue AI 🚗
+# AutoValue AI 
 
 AutoValue AI is a Machine Learning-based Used Car Price Prediction System built using Python, Scikit-Learn, and Gradio.
 
